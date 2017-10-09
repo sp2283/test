@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "test",
+      "name": "sp2283",
       "maintainer": "MCCI Corp",
       "websiteURL": "https://github.com/mcci-catena/Catena4410-Sketches",
       "email": "sjpark@mcci.com",
@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/mcci-catena/Catena4410-Sketches/issues"
           },
-          "url": "https://github.com/sp2283/test/blob/master/ArduinoCore-samd.zip?raw=true",
+          "url": "https://github.com/sp2283/test/raw/master/ArduinoCore-samd.zip",
           "boards": [
             {"name": "Catena4410"},
             {"name": "Catena4450"}
