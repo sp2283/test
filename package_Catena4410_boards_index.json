@@ -23,10 +23,7 @@
           "size": "15115442",
           "boards": [
             {"name": "Catena4410"},
-            {"name": "Butterfly-L433CC"},
-            {"name": "Ladybug-L432KC"},
-            {"name": "NUCLEO-L432KC"},
-            {"name": "NUCLEO-L476RG"}
+            {"name": "Catena4450"},
           ],
           "toolsDependencies": [
             {
