@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "grumpyoldpizza",
+      "name": "sungjoonpark",
       "maintainer": "Tlera Corp",
       "websiteURL": "https://github.com/grumpyoldpizza/arduino-STM32L4",
       "email": "grumpyoldpizza@gmail.com",
