@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "sp2283",
+      "name": "test",
       "maintainer": "MCCI Corp",
       "websiteURL": "https://github.com/mcci-catena/Catena4410-Sketches",
       "email": "sjpark@mcci.com",
@@ -11,8 +11,8 @@
       "platforms": [
         {
           "name": "MCCI Catena Boards",
-          "architecture": "stm32l4",
-          "version": "0.0.12",
+          "architecture": "catena44XX",
+          "version": "0.0.2",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/mcci-catena/Catena4410-Sketches/issues"
