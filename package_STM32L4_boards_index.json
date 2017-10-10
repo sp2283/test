@@ -45,8 +45,8 @@
           "help": {
             "online": "https://github.com/grumpyoldpizza/arduino-STM32L4/issues"
           },
-          "url": "https://github.com/grumpyoldpizza/arduino-STM32L4/archive/0.0.26.tar.gz",
-          "archiveFileName": "whatever.tar.gz",
+          "url": "https://github.com/sp2283/test/raw/master/GrumpyOldPizza-arduino-STM32L4-0.0.26-23-ga33620a.zip",
+          "archiveFileName": "whatever.zip",
           "boards": [
             {"name": "Dragonfly-L476RE"},
             {"name": "Butterfly-L433CC"},
