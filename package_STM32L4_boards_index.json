@@ -40,13 +40,13 @@
         {
           "name": "STM32L4 Boards",
           "architecture": "stm32l4",
-          "version": "0.0.33",
+          "version": "0.0.34",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/grumpyoldpizza/arduino-STM32L4/issues"
           },
           "url": "https://github.com/grumpyoldpizza/arduino-STM32L4/archive/0.0.26.tar.gz",
-          "archiveFileName": "arduino-STM32L4-0.0.22.tar.gz",
+          "archiveFileName": "whatever.tar.gz",
           "boards": [
             {"name": "Dragonfly-L476RE"},
             {"name": "Butterfly-L433CC"},
