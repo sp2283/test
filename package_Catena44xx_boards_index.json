@@ -23,7 +23,9 @@
             {"name": "Catena4410"},
             {"name": "Catena4450"}
           ],
-          "toolsDependencies": [],
+          "toolsDependencies": []
+        }
+      ].
       "tools": []
     }
   ]
