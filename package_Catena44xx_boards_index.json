@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "mcci",
+      "maintainer": "MCCI Corp",
+      "websiteURL": "https://github.com/mcci-catena/Catena4410-Sketches",
+      "email": "tmm@mcci.com",
+      "help": {
+        "online": "https://github.com/mcci-catena/Catena4410-Sketches/issues"
+      },
+      "platforms": [
+        {
+          "name": "MCCI Catena Boards",
+          "architecture": "catena44xx",
+          "version": "0.1.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/mcci-catena/Catena4410-Sketches/issues"
+          },
+          "url": "https://github.com/sp2283/test/raw/master/ArduinoCore-samd.zip",
+          "archiveFileName": "catena44xx-V0_1_1.zip",
+          "boards": [
+            {"name": "Catena4410"},
+            {"name": "Catena4450"}
+          ],
+          "toolsDependencies": [],
+      "tools": []
+    }
+  ]
+}
