@@ -20,7 +20,6 @@
           "url": "https://github.com/grumpyoldpizza/arduino-STM32L4/archive/0.0.25.tar.gz",
           "archiveFileName": "arduino-STM32L4-0.0.25.tar.gz",
           "checksum": "MD5:98e1c456bf1b6fedf4868dc8cab710ca",
-          "size": "15109726",
           "boards": [
             {"name": "Dragonfly-L476RE"},
             {"name": "Butterfly-L433CC"},
