@@ -40,7 +40,7 @@
         {
           "name": "STM32L4 Boards",
           "architecture": "stm32l4",
-          "version": "0.0.32",
+          "version": "0.0.33",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/grumpyoldpizza/arduino-STM32L4/issues"
