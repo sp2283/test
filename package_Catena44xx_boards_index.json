@@ -43,6 +43,11 @@
               "packager": "arduino",
               "version": "4.0.0-atmel",
               "name": "CMSIS"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.0.0"
             }
           ]
         }
