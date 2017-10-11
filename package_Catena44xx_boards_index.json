@@ -23,7 +23,13 @@
             {"name": "Catena4410"},
             {"name": "Catena4450"}
           ],
-          "toolsDependencies": []
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "version": "4.8.3-2014q1",
+              "name": "arm-none-eabi-gcc"
+            }
+          ]
         }
       ],
       "tools": []
