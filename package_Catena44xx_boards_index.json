@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/sp2283/test/raw/master/ArduinoCore-samd-V0_1_1.zip",
           "archiveFileName": "ArduinoCore-samd-V0_1_1.zip",
-          "checksum": "SHA-256:80aa2acaeae527ccf82729f1d3d687c2e2c388b3558664b19137b2edd7ecf9b",
+          "checksum": "SHA-256:80aa2acaeae527ccf82729f1d3d687c2e2c388b3558664b19137b2edd7ecf9b8",
           "size": "18088501",
           "boards": [
             {"name": "Catena4410"},
