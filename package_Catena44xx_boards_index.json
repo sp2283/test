@@ -17,8 +17,8 @@
           "help": {
             "online": "https://github.com/mcci-catena/Catena4410-Sketches/issues"
           },
-          "url": "https://github.com/sp2283/test/raw/master/ArduinoCore-samd.zip",
-          "archiveFileName": "catena44xx-V0_1_1.zip",
+          "url": "https://github.com/sp2283/test/raw/master/ArduinoCore-samd-V0_1_1.zip",
+          "archiveFileName": "ArduinoCore-samd-V0_1_1.zip",
           "boards": [
             {"name": "Catena4410"},
             {"name": "Catena4450"}
